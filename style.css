@@ -22,7 +22,7 @@ p{
 .computador{
     padding: 10px;
     right: 50%;
-    .video{
+}.video{
         position: relative;
         width: 100%;
         max-width: 800px;
